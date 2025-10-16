@@ -13,6 +13,8 @@ News:
 - https://observador.pt/
 - https://www.publico.pt/
 - https://www.nit.pt/ (lifestyle, food, events)
+- https://g1.globo.com/ (Brazilian news private broadcaster, no paywall)
+- https://www.folha.uol.com.br/ (Brazilian major newspaper)
 
 Culture / History:
 - https://www.museusemonumentos.pt/pt (Portugal’s Museums and Monuments)
@@ -33,6 +35,8 @@ Government:
 - https://portal.azores.gov.pt/ (Azores Regional Government)
 - https://www.parlamento.pt/ (Portuguese Parliament)
 - https://diariodarepublica.pt/dr/home (Official Journal of the Portuguese Republic)
+- https://www.gov.br/pt-br (Brazilian Government platform)
+- https://portal.stf.jus.br/ (Brazilian Federal Supreme Court)
 
 Political Parties:
 - https://ps.pt/
